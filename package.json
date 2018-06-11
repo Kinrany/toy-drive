@@ -1,0 +1,11 @@
+{
+  "name": "drive",
+  "version": "1.0.0",
+  "description": "Yet another Cycle.js clone",
+  "main": "dist/drive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruslan Fadeev",
+  "license": "MIT"
+}
