@@ -4,8 +4,13 @@
   "description": "Yet another Cycle.js clone",
   "main": "dist/drive.js",
   "scripts": {
+    "build": "rollup -c",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ruslan Fadeev",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "rollup": "^0.60.2",
+    "rollup-plugin-typescript": "^0.8.1"
+  }
 }
